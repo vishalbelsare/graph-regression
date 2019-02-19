@@ -1,6 +1,6 @@
 import warnings
 
-def _check_valid_graphs(graphs):
+def check_valid_graphs(graphs):
     """
     Checks if all graphs in list have same shapes.
 
